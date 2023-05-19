@@ -12,7 +12,9 @@
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
+    "@fontsource/inter": "^4.5.15",
     "@mui/material": "^5.13.1",
+    "@radix-ui/react-select": "^1.2.1",
     "class-variance-authority": "^0.6.0",
     "clsx": "^1.2.1",
     "lucide-react": "^0.219.0",
